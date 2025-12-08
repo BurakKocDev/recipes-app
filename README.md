@@ -1,6 +1,6 @@
 # Recipe Finder App  
 
-https://youtube.com/shorts/glwgDypJrGQ
+[https://youtube.com/shorts/glwgDypJrGQ](https://youtube.com/shorts/-IYcFGwpwsA?feature=share)
 
 A comprehensive Flutter mobile application that helps users discover recipes based on available ingredients, manage their cooking preferences, and track nutrition information. The app uses recipe data from a Kaggle dataset and provides an intuitive interface for searching, filtering, and organizing recipes.
 
